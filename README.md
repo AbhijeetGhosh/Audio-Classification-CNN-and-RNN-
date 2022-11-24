@@ -1,5 +1,5 @@
 # Audio-Classification
-empty directory for audio classification videos
+The following project was done to compare RNN and CNN algorithm's performance for classifying accoustic signals of musical instruments. Observed conclusion were, the RNN performed better in classifying over CNNs but that might evolve depending on the distribution of dataset and the sampling rate of input format.
 
 ### Setup a conda virtual environment (windows)
 
